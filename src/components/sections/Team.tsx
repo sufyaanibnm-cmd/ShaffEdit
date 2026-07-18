@@ -308,7 +308,7 @@ export function Team() {
           </div>
 
           <p className="text-xs uppercase tracking-widest text-white/40">
-            Use the arrows, drag, or click a card.
+            Use the arrows, swipe, or click a card.
           </p>
         </div>
       </div>
